@@ -6,16 +6,16 @@ public:
 	// AGGRCOW Spoj
 	bool isPossible(vector<int>& arr,int n,int k,int maxi){
 		int cows = 1;
-		int sum = 0;
-		for(int i = 0;i < n;i++){
-			sum += arr[i];
-			if(sum > maxi){
+		int i = 0,j = 1;
+		while(j < n){
+			if(arr[j]-arr[i] >= maxi){
 				cows++;
-				sum = arr[i];
+				i = j;
+				j++;
 			}
-			if(cows > k) return false;
-
+			else j++;
 		}
+		if(cows < k) return false;
 		return true;
 	}
 	int solve(vector<int>& arr,int n,int k){
@@ -24,19 +24,17 @@ public:
 		int mini = INT_MAX;
 		int maxi = INT_MIN;
 		int res = -1;
-		for(auto i : arr){
-			maxi = max(maxi,i);
-			mini = min(mini,i);
-		}
 		sort(arr.begin(),arr.end());
-		int start = mini,end = sum;
+		mini = arr[1]-arr[0];
+		maxi = arr[n-1]-arr[0];
+		int start = mini,end = maxi;
 		while(start <= end){
 			int mid = start + (end - start)/2;
 			if(isPossible(arr,n,k,mid) == true){
 				res = mid;
-				end = mid - 1;
+				start = mid + 1;
 			}
-			else start = mid + 1;
+			else end = mid - 1;
 		}
 		return res;
 	}

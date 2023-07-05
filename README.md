@@ -24,3 +24,15 @@
 5. Two Sum
 6. Sort Colors
 7. Best Time to Buy and Sell Stocks
+
+# Day 4 Problems Solved
+1. AGGRCOW
+2. Convert Binary Number in a Linked List to Integer
+3. Split Array Largest Sum
+4. BFS Traversal of Graph
+5. DFS For a Graph
+6. Remove Duplicates from Sorted Array
+7. Best Time to Buy and Sell Stock II
+8. Find All DUplicates in an Array
+9. Container With Most Water
+10. Maximum Points You Can Obtain from Cards
