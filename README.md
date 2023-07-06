@@ -33,6 +33,14 @@
 5. DFS For a Graph
 6. Remove Duplicates from Sorted Array
 7. Best Time to Buy and Sell Stock II
-8. Find All DUplicates in an Array
+8. Find All Duplicates in an Array
 9. Container With Most Water
 10. Maximum Points You Can Obtain from Cards
+
+# Day 5 Problems Solved
+1. Next Greater Element
+2. Diameter of Binary Tree
+3. Invert Binary Tree
+4. Maximum Depth of Binary Tree
+5. Kth Largest Element in An Array
+6. Top K Frequent Elements
