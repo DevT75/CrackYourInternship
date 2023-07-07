@@ -44,3 +44,8 @@
 4. Maximum Depth of Binary Tree
 5. Kth Largest Element in An Array
 6. Top K Frequent Elements
+
+# Day 6 Problems Solved
+1. Chocolate Distribution Problem
+2. Missing Number
+3. Reverse Linked List
