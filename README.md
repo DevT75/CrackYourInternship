@@ -49,3 +49,12 @@
 1. Chocolate Distribution Problem
 2. Missing Number
 3. Reverse Linked List
+
+# Day 7 Problems Solved
+1. 3Sum
+2. Subarray Sum Equals K
+3. Spiral Matrix
+4. 4Sum
+5. Majority Element
+6. Power of Two
+7. Valid Square
