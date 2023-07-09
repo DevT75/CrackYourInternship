@@ -58,3 +58,6 @@
 5. Majority Element
 6. Power of Two
 7. Valid Square
+
+# Day 8 Problems Solved
+1. Number of Islands
