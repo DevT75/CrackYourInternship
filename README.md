@@ -61,3 +61,11 @@
 
 # Day 8 Problems Solved
 1. Number of Islands
+
+# Day 9 Problems Solved
+1. Maximize the Cut Segments
+2. Unique Paths
+3. Minimum Path Sum
+4. Coin Change
+5. Counting Bits
+6. Maximum Product Subarray
