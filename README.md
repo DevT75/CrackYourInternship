@@ -69,3 +69,7 @@
 4. Coin Change
 5. Counting Bits
 6. Maximum Product Subarray
+
+# Day 10 Problems Solved
+1. Ugly Number II
+2. Sort Colors
