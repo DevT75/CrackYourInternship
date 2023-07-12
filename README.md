@@ -73,3 +73,11 @@
 # Day 10 Problems Solved
 1. Ugly Number II
 2. Sort Colors
+
+# Day 11 Problems Solved
+1. Detect Cycle in a Graph
+2. Find Eventual Safe States
+3. Flood Fill
+4. Steps By Knight
+5. Spiral Matrix
+6. Number of Islands
