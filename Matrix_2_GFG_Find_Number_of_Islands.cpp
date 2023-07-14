@@ -11,7 +11,7 @@ public:
 			for(int j = -1;j <= 1;j++){
 				int row = r + i;
 				int col = c + j;
-				if(row >= 0 && row < n && col >= 0 && col < m && !vis[row][col]){
+				if(row >= 0 && row < n && col >= 0 && col < m && !vis[row][col] && adj[row][col] == 1){
 					dfs(adj,row,col,vis,n,m);
 				}
 			}
@@ -22,7 +22,7 @@ public:
 		int count = 0;
 		for(int i = 0;i < n;i++){
 			for(int j = 0;j < m;j++){
-				if(!vis[i][j]) {
+				if(!vis[i][j] && adj[i][j] == 1) {
 					count++;
 					dfs(adj,i,j,vis,n,m);
 				}

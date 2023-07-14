@@ -81,3 +81,14 @@
 4. Steps By Knight
 5. Spiral Matrix
 6. Number of Islands
+
+# Day 12 Problems Solved
+1. Jump Game
+2. Word Search
+3. Game of Life
+4. Longest Common Prefix
+5. Find the Index of the First Occurence in a String
+6. Rotate Image
+7. Palindrome Number
+8. Happy Number
+9. The kth Factor of n
