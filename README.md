@@ -92,3 +92,11 @@
 7. Palindrome Number
 8. Happy Number
 9. The kth Factor of n
+
+# Day 13 Problems Solved
+1. Remove Duplicates from Sorted List
+2. Sort a Linked List of 0s, 1s and 2s
+3. Merge Two Sorted Lists
+4. Add Two Numbers II
+5. Palindrome Linked List
+6. Remove Nth Node From End of List
