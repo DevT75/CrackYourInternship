@@ -100,3 +100,7 @@
 4. Add Two Numbers II
 5. Palindrome Linked List
 6. Remove Nth Node From End of List
+
+# Day 14 Problems Solved
+1. Ceiling in a Sorted Array
+
