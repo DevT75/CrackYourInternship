@@ -110,3 +110,9 @@
 3. Multiply Two Numbers Represented by Linked List
 4. Intersection of Two Linked Lists
 5. Longest Common Substring
+
+# Day 16 Problems Solved
+1. Subarray Sums Divisible by K
+2. Copy List With Random Pointer
+
+# Day 17 Problems Solved
