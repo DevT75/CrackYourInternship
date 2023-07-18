@@ -116,3 +116,13 @@
 2. Copy List With Random Pointer
 
 # Day 17 Problems Solved
+1. Range Sum of BST
+2. Subtree of Another Tree
+3. Symmetric Tree
+4. Convert Sorted Array to Binary Search Tree
+5. Merge Two Binary Trees
+6. Same Tree
+7. Lowest Common Ancestor of a Binary Search Tree
+8. Minimum Absolute Difference in BST
+9. Path Sum
+10. Balanced Binary Tree
