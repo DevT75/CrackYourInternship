@@ -130,3 +130,7 @@
 # Day 18 Problems Solved
 1. Sum of Left Leaves
 2. Reverse Linked List II
+
+# Day 19 Problems Solved
+1. Given Matrix O-X Replace O-X Surrounded X
+
