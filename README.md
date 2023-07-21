@@ -134,3 +134,5 @@
 # Day 19 Problems Solved
 1. Given Matrix O-X Replace O-X Surrounded X
 
+# Day 20 Problems Solved
+1. Reverse Nodes in K Group
