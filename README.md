@@ -139,3 +139,9 @@
 
 # Day 21 Problems Solved
 1. Minimum Window Substring
+
+# Day 22 Problems Solved
+1. Task Completion Possible from Given Dependencies
+2. Kth Smallest Element in a Sorted Matrix
+3. Largest Subarray with 0 Sum
+4. Sliding Window Maximum
