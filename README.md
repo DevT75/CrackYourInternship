@@ -152,4 +152,8 @@
 3. Binary Tree Right Side View
 4. Validate Binary Search Tree
 5. Binary Tree Inorder Traversal
-6. Flatten Binary Tree to Linked List
+6. Flatten Binary Tree to Linked 
+
+# Day 24 Problems Solved
+1. Merge Sorted Array
+2. Topological Sort
