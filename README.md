@@ -167,3 +167,7 @@
 6. Find Pair Given Difference
 7. Binary Tree Maximum Path Sum
 8. Binary Tree Level Order Traversal
+
+# Day 26 Problems Solved
+1. A Product Array Puzzle
+2. Kth Smallest Element in a BST
