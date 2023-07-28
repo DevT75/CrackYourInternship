@@ -171,3 +171,6 @@
 # Day 26 Problems Solved
 1. A Product Array Puzzle
 2. Kth Smallest Element in a BST
+
+# Day 27 Problems Solved
+1. Smallest Positive Missing Number
