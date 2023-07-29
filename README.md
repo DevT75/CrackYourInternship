@@ -174,3 +174,8 @@
 
 # Day 27 Problems Solved
 1. Smallest Positive Missing Number
+
+# Day 28 Problems Solved
+1. Lowest Common Ancestor of a Binary Tree
+2. Count BST Nodes Lying in a Given Range
+3. Binary Tree ZigZag Level Order Traversal
