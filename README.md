@@ -177,5 +177,10 @@
 
 # Day 28 Problems Solved
 1. Lowest Common Ancestor of a Binary Tree
-2. Count BST Nodes Lying in a Given Range
-3. Binary Tree ZigZag Level Order Traversal
+2. Longest Increasing Subsequence
+3. Count BST Nodes Lying in a Given Range
+4. Binary Tree ZigZag Level Order Traversal
+
+# Day 29 Problems Solved
+1. Decode String
+2. Maximum Length of Repeated Subarray
