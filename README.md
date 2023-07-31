@@ -184,3 +184,8 @@
 # Day 29 Problems Solved
 1. Decode String
 2. Maximum Length of Repeated Subarray
+
+# Day 30 Problems Solved
+1. Shortest Bridge
+2. As Far from Land As Possible
+3. Rat in a Maze
