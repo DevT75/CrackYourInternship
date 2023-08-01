@@ -188,4 +188,8 @@
 # Day 30 Problems Solved
 1. Shortest Bridge
 2. As Far from Land As Possible
-3. Rat in a Maze
+3. Rat in a Maze Problems
+
+# Day 31 Problems Solved
+1. Find the Most Competitive Subsequence
+2. Minimum Distance Between Two Given Nodes of a Binary Tree
