@@ -193,3 +193,11 @@
 # Day 31 Problems Solved
 1. Find the Most Competitive Subsequence
 2. Minimum Distance Between Two Given Nodes of a Binary Tree
+
+# Day 32 Problems Solved
+1. Valid Palindrome II
+2. Integer to Roman
+3. Minimum Number of Swaps Required to Sort an Array
+4. Permute Two Arrays Sum Every Pair Greater Equal K
+5. Check Reversing Subarray make Array Sorted
+	
