@@ -200,4 +200,11 @@
 3. Minimum Number of Swaps Required to Sort an Array
 4. Permute Two Arrays Sum Every Pair Greater Equal K
 5. Check Reversing Subarray make Array Sorted
-	
+
+# Day 33 Problems Solved
+1. Linked List in Zigzag Fashion
+2. Merge K Sorted Lists
+3. Merge Sort for Linked List
+4. Evaluate Postfix Expression
+5. Predecessor & Successor
+6. Restore The Array from Adjacent Pairs
