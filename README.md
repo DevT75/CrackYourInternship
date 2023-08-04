@@ -208,3 +208,6 @@
 4. Evaluate Postfix Expression
 5. Predecessor & Successor
 6. Restore The Array from Adjacent Pairs
+
+# Day 34 Problems Solved
+1. Smallest Window in a Substring Containing All the Characters if Another String
