@@ -211,3 +211,10 @@
 
 # Day 34 Problems Solved
 1. Smallest Window in a Substring Containing All the Characters if Another String
+
+# Day 35 Problems Solved
+1. Unique Binary Search Trees
+2. Unique Binary Search Trees II
+3. Radix Sort
+4. Minimum Cost to Make All Array Elements Equal
+5. Binary Tree Paths
