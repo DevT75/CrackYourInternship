@@ -218,3 +218,6 @@
 3. Radix Sort
 4. Minimum Cost to Make All Array Elements Equal
 5. Binary Tree Paths
+
+# Day 36 Problems Solved
+1. Print sll Combinations of r Elements in a Given Array of Size number
