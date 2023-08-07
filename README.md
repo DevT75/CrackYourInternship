@@ -221,3 +221,7 @@
 
 # Day 36 Problems Solved
 1. Print sll Combinations of r Elements in a Given Array of Size number
+
+# Day 37 Problems Solved
+1. Sudoku Solver
+2. Combinations
