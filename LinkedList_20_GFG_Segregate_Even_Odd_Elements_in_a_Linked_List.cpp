@@ -14,9 +14,33 @@ public:
 class Solution{
 public:
 	Node* segEvenOdd(Node*head){
-		Node* temp = head;
-
-		return temp;
+		Node*oddHead = NULL,*oddTail = NULL,*evenHead = NULL,*evenTail = NULL;
+		Node*temp = head;
+		while(temp){
+			if(temp->data % 2 == 0){
+				if(!evenHead){
+					evenHead = new Node(temp->data);
+					evenTail = evenHead;
+				}
+				else{
+					evenTail->next = new Node(temp->data);
+					evenTail = evenTail->next;
+				}
+			}
+			else{
+				if(!oddHead){
+					oddHead = new Node(temp->data);
+					oddTail = oddHead;
+				}
+				else{
+					oddTail->next = new Node(temp->data);
+					oddTail = oddTail->next;
+				}
+			}
+			temp = temp->next;
+		}
+		evenTail->next = oddHead;
+		return evenHead;
 	}
 };
 int main(){

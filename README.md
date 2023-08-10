@@ -232,3 +232,6 @@
 
 # Day 39 Problems Solved
 1. Subsets II
+
+# Day 40 Problems Solved
+1. Segregate Even and Odd Elements in a Linked List

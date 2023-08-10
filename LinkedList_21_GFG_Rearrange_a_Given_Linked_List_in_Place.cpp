@@ -45,31 +45,17 @@ public:
 		Node*revHead = NULL;
 		Node*curr = NULL;
 		head2 = reversell(head2);
+		int cnt = 0;
 		while(head1 || head2){
-			if(head1){
-				if(!curr){
-					curr->next = head1;
-					curr = curr->next;
-				}
-				else{
-					curr = head1;
-					curr = curr->next;
-				}
-				head1 = head1->next;
+			if(cnt % 2 == 0){
+				
 			}
-			if(head2){
-				if(!curr){
-					curr->next = head2;
-					curr = curr->next;
-				}
-				else{
-					curr = head2;
-					curr = curr->next;
-				}
-				head2 = head2->next;
+			else{
+
 			}
+			cnt++;
 		}
-		return head->next;
+		return head;
 	}
 };
 int main(){
@@ -89,6 +75,7 @@ int main(){
 		cin >> n;
 	}
 	Solution s;
+	// Node*temp = head;
 	Node*temp = s.rearrange(head);
 	while(temp){
 		cout << temp->data << " ";
