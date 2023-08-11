@@ -235,3 +235,6 @@
 
 # Day 40 Problems Solved
 1. Segregate Even and Odd Elements in a Linked List
+
+# Day 41 Problems Solved
+1. N Queens
