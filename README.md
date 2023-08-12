@@ -238,3 +238,10 @@
 
 # Day 41 Problems Solved
 1. N Queens
+
+# Day 42 Problems Solved
+1. M-Coloring Problem
+2. Palindrome Partitioning
+3. Unique Paths III
+4. Knight Dialer
+5. Count Square Submatrices with All Ones
