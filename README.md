@@ -245,3 +245,7 @@
 3. Unique Paths III
 4. Knight Dialer
 5. Count Square Submatrices with All Ones
+
+# Day 43 Problems Solved
+1. Bipartite Graph
+2. Maximal Square
