@@ -249,3 +249,8 @@
 # Day 43 Problems Solved
 1. Bipartite Graph
 2. Maximal Square
+
+# Day 44 Problems Solved
+1. Longest Increasing Path in a Matrix
+2. Decode Ways
+3. Minimum Insertion Steps to make a String Palindrome
