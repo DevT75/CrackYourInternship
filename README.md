@@ -254,3 +254,8 @@
 1. Longest Increasing Path in a Matrix
 2. Decode Ways
 3. Minimum Insertion Steps to make a String Palindrome
+
+# Day 45 Problems Solved
+1. Partition List
+2. Flatten a Multilevel Doubley Linked List
+3. Implement Queue using Stacks
